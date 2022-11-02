@@ -37,3 +37,5 @@
 ![image](https://user-images.githubusercontent.com/93589183/199395867-988fdf9f-9bc0-4880-8fe8-3e37a7513f1a.png)
 
 ### 서비스 아키텍처
+
+![image](https://user-images.githubusercontent.com/93589183/199396685-ecf77c78-a9da-4aca-bf17-bca96ea1017d.png)
