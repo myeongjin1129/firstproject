@@ -27,6 +27,7 @@
 
 ### NI:KEY 앱의 차별성
 
+![image](https://user-images.githubusercontent.com/93589183/199395108-81f26538-051d-4c54-85d7-842ed02011aa.png)
 
 ## 설계 
 
