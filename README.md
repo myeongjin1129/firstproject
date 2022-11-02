@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/93589183/199400097-07d51956-4eb5-4893-a690-0993e1be098b.png)
 
 ### 프로젝트 수행 기간
-https://github.com/myeongjin1129/firstproject/issues/2#issue-1432488896
+![image](https://user-images.githubusercontent.com/93589183/199400732-9f6a680d-3ef6-48c9-886e-28d534305537.png)
 
 ### 프로젝트 내용
  #### 언제 어디서나 구동되는 스마트 키보드
