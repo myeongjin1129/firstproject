@@ -1,4 +1,4 @@
-# NI:KEY <신조어 기반 스마트 키보드>
+## NI:KEY <신조어 기반 스마트 키보드>
 
 ### 팀원 소개
 ![image](https://user-images.githubusercontent.com/93589183/199399233-146726f1-97a8-447c-b10f-0978de78730e.png)
