@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/93589183/199399233-146726f1-97a8-447c-b10f-0978de78730e.png)
 
 ### 역할 분담 
-![image](https://user-images.githubusercontent.com/93589183/199400097-07d51956-4eb5-4893-a690-0993e1be098b.png)
+![image](https://user-images.githubusercontent.com/93589183/199400488-f5a4f2b2-f344-4309-836f-82dae990986a.png)
 
 ### 프로젝트 수행 기간
 ![image](https://user-images.githubusercontent.com/93589183/199400732-9f6a680d-3ef6-48c9-886e-28d534305537.png)
